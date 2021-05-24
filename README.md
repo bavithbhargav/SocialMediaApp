@@ -2,7 +2,7 @@ SocialComponents
 =============
 
 ## Summary
-This application is a pattern of social components comprising posts, likes, comments, views, and others that can be used for Android application development. It is Firebase-based  and uses such Firebase features as the database, storage, and authentication. Our app has Firebase queries implemented in it, i.e. data pagination, filtering data by an author. As well, it is the example of working with Firebase transaction for counting likes, views, and comments. Our application is the great example of material design. The user-friendly animation guides a person by opening screens of details and a user profile.
+This application is a pattern of social components comprising posts, likes, comments, views, and others that can be used for Android application development. It is Firebase-based  and uses such Firebase features as the database, storage, and authentication. Our app has Firebase queries implemented in it, i.e. data pagination, filtering data by an author. As well , it is the example of working with Firebase transaction for counting likes, views, and comments. Our application is the great example of material design. The user-friendly animation guides a person by opening screens of details and a user profile.
 
 ### Current build 
 
